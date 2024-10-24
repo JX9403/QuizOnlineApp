@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "897536917040",
+    "firebase_url": "https://test-app-6d444-default-rtdb.firebaseio.com",
+    "project_id": "test-app-6d444",
+    "storage_bucket": "test-app-6d444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897536917040:android:176ff3cbf65983b42bf7f5",
+        "android_client_info": {
+          "package_name": "com.example.onlinequiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnc-QiJUydpdfUZm1wy9LJlZ5pudwDP_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897536917040:android:14d495bf9e4f7f682bf7f5",
+        "android_client_info": {
+          "package_name": "com.example.onlinequizadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnc-QiJUydpdfUZm1wy9LJlZ5pudwDP_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
